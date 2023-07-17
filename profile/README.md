@@ -26,11 +26,12 @@ Repositories marked with a ✅ Green Checkmark are part of this Org.
 
 ## Modding Docs
 
-We are working on a comprehensive documentation for mod developers - It will be linked here as soon as it is available.
+Head over to our [💡 Docs repo](https://github.com/DomeKeeperMods/Docs/wiki) to find a wiki with plenty of modding documentation.
 
 ## Modding Tools
 
-Coming soon.
+In the [Releases section](https://github.com/DomeKeeperMods/Docs/releases) of the Docs repo you can find a tool that help you to convert sprites from and to the Dome Keeper palette system. The documentation is [available here](https://github.com/DomeKeeperMods/Docs/wiki/Palette-Recolor).
+
 
 ## Other Links
 
