@@ -20,7 +20,7 @@ Repositories marked with a ✅ Green Checkmark are part of this Org.
 | Steam Workshop | Notes | Repository |
 | --- | --- | --- |
 | [🐍 Hydra Launcher](https://steamcommunity.com/sharedfiles/filedetails/?id=2996273695) | A new Gadget that shoots enemy seeking missiles | [Link ✅](https://github.com/DomeKeeperMods/DomeKeeper-HydraLauncher) |
-| [👷‍♂️ Moleman](https://steamcommunity.com/sharedfiles/filedetails/?id=2996215689) | Includes a new Keeper and new means of resource transportation | [Link](https://github.com/DomeKeeperMods/DomeKeeper-HydraLauncher) |
+| [👷‍♂️ Moleman](https://steamcommunity.com/sharedfiles/filedetails/?id=2996215689) | Includes a new Keeper and new means of resource transportation | [Link](https://github.com/Ategon/Dome-Keeper-Moleman) |
 | [💙 Godot Explorer](https://steamcommunity.com/sharedfiles/filedetails/?id=2957678599) | A debugging popup that displays the scene tree of the Godot Engine | [Link](https://github.com/otDan/Godot-GodotExplorer)
 | [⚡ Quick Restart](https://steamcommunity.com/sharedfiles/filedetails/?id=2960357028) | Restart your runs faster! | [Link](https://github.com/Ategon/dome-keeper-quick-restart)
 
